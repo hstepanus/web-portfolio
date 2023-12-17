@@ -44,8 +44,8 @@
 .navbar-toggler:hover,
 .navbar-toggler:focus {
     background-color: #ebd122;
-    color: #242424;
-    fill: #242424;
+    color: hsl(40, 73%, 56%);
+    fill: hsl(36, 82%, 51%);
     border-color: #fff;
 
 }
@@ -55,7 +55,7 @@
 .jumbotron {
     background-image: url("../assets/contour-lines.png");
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     padding: 3%;
     border-radius: 0px;
 }
@@ -118,5 +118,5 @@ body {
 
     font-family: 'Georgia', serif;
     background-color: #f7f1fa;
-    color: #242424;
+    color: #3556b1;
 }
